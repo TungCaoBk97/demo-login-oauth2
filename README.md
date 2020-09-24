@@ -10,6 +10,11 @@ To get client_id and client_secret
 * [Google](https://developers.google.com/identity/protocols/oauth2/openid-connect)
 
 ### Login link
-Github:  [/oauth2/authorization/github]()\
-Facebook: [/oauth2/authorization/facebook]()
+Github:  /oauth2/authorization/github\
+Facebook: /oauth2/authorization/facebook
+
+### Test Account
+Facebook:
+* gtlnbrbgdx_1599216600@tfbnw.net, password: 123456@
+* dhuqpsduur_1600921471@tfbnw.net, password: 123456@
 
