@@ -1,0 +1,11 @@
+spring:
+  security:
+    oauth2:
+      client:
+        registration:
+          github:
+            clientId: 81fcbd12d993078c3a5f
+            clientSecret: ${GITHUB_CLIENT_SECRET}
+          facebook:
+            clientId: 664150940866847
+            clientSecret: ${FACEBOOK_CLIENT_SECRET}
