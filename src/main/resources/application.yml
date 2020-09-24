@@ -4,8 +4,8 @@ spring:
       client:
         registration:
           github:
-            clientId: 81fcbd12d993078c3a5f
+            clientId: ${GITHUB_CLIENT_ID}
             clientSecret: ${GITHUB_CLIENT_SECRET}
           facebook:
-            clientId: 664150940866847
+            clientId: ${FACEBOOK_CLIENT_ID}
             clientSecret: ${FACEBOOK_CLIENT_SECRET}
